@@ -12,12 +12,12 @@ on:
       GIT_FunctionApp_Name:
         description: 'Provide the Function App Name'
         required: true
-        default: 'myfunpython0987'
+        default: 'myfunnew0123'
         
       GIT_FunctionApp_URL:
         description: 'Provide the Function App URL'
         required: true
-        default: 'https://myfunpython0987.azurewebsites.net'
+        default: 'https://myfunnew0123.azurewebsites.net'
         
        # This is the path of your Function app in Git.
       GIT_FunctionApp_PATH:
